@@ -1,0 +1,12 @@
+#Ignore non-dotfiles
+/[^.]*
+
+#Secrets
+.Xauthority
+
+#Directories
+git
+Documents
+Downloads
+Pictures
+
